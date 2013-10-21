@@ -1,4 +1,4 @@
-#What is AngularJS?
+#Step 0 - What is AngularJS?
 
 **AngularJS** is an open-source JavaScript framework, maintained by Google. Its goal is to make both
 development and testing of browser-based applications easier.

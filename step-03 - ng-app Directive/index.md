@@ -1,4 +1,4 @@
-# The `ng-app` Directive
+#Step 3 - The `ng-app` Directive
 
 ##Overview
 

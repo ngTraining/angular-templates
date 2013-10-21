@@ -1,4 +1,4 @@
-#Introduction to Directives
+#Step 2 - Introduction to Directives
 
 ##Declarative HTML
 

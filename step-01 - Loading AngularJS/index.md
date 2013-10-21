@@ -1,4 +1,4 @@
-# Loading AngularJS
+# Step 1 - Loading AngularJS
 Before we can use AngularJS to create an application we need to load it into the browser.  We do
 this using a `<script>` element:
 

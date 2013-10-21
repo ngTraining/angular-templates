@@ -1,4 +1,4 @@
-#Interpolation
+#Step 6 - Interpolation
 
 ##Overview
 This is the core feature of Angular's templating capabilities – a binding, denoted by **double-curlies {{ }}**.
