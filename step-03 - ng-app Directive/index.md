@@ -29,8 +29,9 @@ In this example we create our first, simple AngularJS application.
 Here is a [link to the example](example-01).
 
 ## Explanation
-This AngularJS application simply displays the result of adding two numbers. To get it to run we do
-the following:
+
+	This example demonstrates the basic elements that are needed to get an AngularJS application
+running.
 
 * Load the `angular.js` file using the `<script>` in the `<head>` tag.
 * Apply the `ng-app` directive to the `<html>` tag so that the entire page is an **AngularJS
