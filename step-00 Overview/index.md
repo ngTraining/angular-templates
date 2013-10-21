@@ -35,7 +35,7 @@ application and the responsibilities and interactions for each part in that stru
 The idea behind MVC is simple. We must have the following responsibilities clearly separated in our
 application:
 
-![MVC components](http://d2o0t5hpnwv4c1.cloudfront.net/613_mvc/components.jpg)
+![MVC components](../lib/components.jpg)
 
 In the AngularJS form of MVC, there is also the concept of a **ViewModel**, called the **Scope**,
 which is an aspect of the business **Model** that is made available to the **View**.
@@ -113,7 +113,7 @@ them.
 
 This diagram shows how the different parts of the MVC pattern fit into AngularJS.
 
-![Angular Architecture](http://capgemini.github.io/ngTraining/angular-101/images/ngMVC.png)
+![Angular Architecture](../lib/ngMVC.png)
 
 #Further Reading
 For more information on MVC you can look here:
