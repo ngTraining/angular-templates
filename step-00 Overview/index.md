@@ -5,7 +5,7 @@ development and testing of browser-based applications easier.
 
 It is particularly effective for building **Single Page Applications (SPA)** that run in a browser.
 
-![What is AngularJS?](http://red-badger.com/blog/wp-content/uploads/2013/01/AngularJS-large-resized-e1359375316590.png What is AngularJS?)
+![What is AngularJS?](../lib/AngularJS-Logo.png What is AngularJS?)
 
 Basic HTML is great for **displaying static documents**, but is not so good at describing the
 **dynamic views** needed for interactive applications. A key strength of AngularJS is that it was
