@@ -21,7 +21,7 @@ Hello {{ firstName }}!
 - The value of the `ng-model` attribute maps to the `firstName` property on the *scope*.
 - When you type into the input box, AngularJS automatically updates the value of `firstName` on the
   scope
-- The `{{firstName}}` interpolation displays this value as it changes.
+- The `{{firstName}}` **interpolation** displays this value as it changes.
 
 Here we have an input field to enter your first name. Whatever you type into the input box is
 assigned to a property on the a *scope* called `firstName`. Since `firstName` is a property on the
