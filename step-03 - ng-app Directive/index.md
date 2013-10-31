@@ -2,9 +2,9 @@
 
 ##Overview
 
-The `ng-app` **directive** defines your AngularJS application.  You place it as an **attribute** on an HTML
-element.  It tells AngularJS that this element and all of its children are part of an **AngularJS
-application**.
+The `ng-app` **directive** defines your AngularJS application.  You place it as an **attribute** on
+an HTML element.  It tells AngularJS that this element and all of its children are part of an
+ **AngularJS application**.
 
 We usually place this directive near the root element of the page, for example as `<html ng-app>` or
 `<body ng-app>`.
