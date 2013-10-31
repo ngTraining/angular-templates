@@ -24,6 +24,6 @@ Hello {{ firstName }}!
 - The `{{firstName}}` **interpolation** displays this value as it changes.
 
 Here we have an input field to enter your first name. Whatever you type into the input box is
-assigned to a property on the a *scope* called `firstName`. Since `firstName` is a property on the
+assigned to a property on the a **scope** called `firstName`. Since `firstName` is a property on the
 *scope*, you can bind to it in other parts of the view to display your first name. AngularJS keeps
 the scope and the view in synch for you.
