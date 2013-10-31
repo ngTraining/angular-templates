@@ -1,6 +1,6 @@
 #Step 4 - The `ng-model` Directive
 
-## Introduction
+## Overview
 
 This **directive** tells AngularJS to create a **data-binding** between the **View** and the
 **Scope**. You apply it to input elements, such as `<input>`, `<select>` and `<textarea>`, as an
@@ -9,6 +9,7 @@ attribute. The value of the attribute is the **AngularJS expression** to bind.
 AngularJS will keep the value of the expression and the value of the input element synchronized.
 
 ## Example
+
 Here we bind a text input element to the `firstName` property on the **scope**.
 
 ```html
