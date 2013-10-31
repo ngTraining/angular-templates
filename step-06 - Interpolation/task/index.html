@@ -6,6 +6,11 @@
 	  <script src="../../lib/angular.js"></script>
 	</head>
 	<body>
-		<label>Your email:</label>
+		Your name: <input type="text" ng-model="name"/>
+		Your favourite colour: <input type="text" ng-model="colour"/>
+		Your email address: ...
+
+		<p>Hello {{name}}! I see that you like <span style="color: {{colour}}"> {{colour}}</span></p>
+		<p>Email <a href="mailto:...">...</a></p>
 	</body>
 </html>
