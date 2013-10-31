@@ -1,9 +1,15 @@
-#Step 5 - The `ng-bind` Directive
+#Step 5 - The `ng-bind` Directive and Interpolation
 
-The `ng-bind` directive binds the value of an AngularJS **expression** to the text content of an element. It is applied as an attribute to the element. The value of the attribute is the AngularJS expression to bind. Whenever the result of evaluating the expression changes, AngularJS will update the text content of the element with the new value.
+##ng-bind
+The `ng-bind` directive binds the text content of an element to the value of an **AngularJS
+expression**. It is applied as an attribute to the element. The value of the attribute is the
+**expression** to bind.
+
+- Whenever the value of the expression changes, AngularJS will update
+  the text content of the element with the new value.
 
 ##Example
-Extending the example given for `ng-model`, we can display the name entered using `ng-bind`:
+Modifying the example given for `ng-model`, we can display the name entered using `ng-bind`:
 
 ```html
 <!doctype html>
