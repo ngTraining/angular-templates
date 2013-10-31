@@ -1,5 +1,6 @@
 #Step 5 - The `ng-bind` Directive
 
+##Overview
 The `ng-bind` directive binds the text content of an element to the value of an **AngularJS
 expression**. It is applied as an attribute to the element. The value of the attribute is the
 **expression** to bind.
